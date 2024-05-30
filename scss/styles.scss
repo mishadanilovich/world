@@ -221,6 +221,7 @@ input {
       max-height: 600px;
 
       &-slide {
+        height: auto;
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         align-items: center;

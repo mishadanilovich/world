@@ -678,7 +678,7 @@ input {
   margin-bottom: 20px;
 }
 .about-us-description {
-  text-align: justify;
+  text-indent: 20px;
 }
 .about-us-gallery {
   max-height: 750px;

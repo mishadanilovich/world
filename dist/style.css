@@ -550,6 +550,7 @@ input {
   max-height: 600px;
 }
 .halls-content .swiper-slide {
+  height: auto;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
